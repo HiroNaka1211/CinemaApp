@@ -1,0 +1,26 @@
+C:\Users\njim1\Desktop\Cinema_app\obj\Debug\netcoreapp3.1\Cinema_app.csprojAssemblyReference.cache
+C:\Users\njim1\Desktop\Cinema_app\obj\Debug\netcoreapp3.1\Cinema_app.AssemblyInfoInputs.cache
+C:\Users\njim1\Desktop\Cinema_app\obj\Debug\netcoreapp3.1\Cinema_app.AssemblyInfo.cs
+C:\Users\njim1\Desktop\Cinema_app\obj\Debug\netcoreapp3.1\Cinema_app.csproj.CoreCompileInputs.cache
+C:\Users\njim1\Desktop\Cinema_app\bin\Debug\netcoreapp3.1\Cinema_app.exe
+C:\Users\njim1\Desktop\Cinema_app\bin\Debug\netcoreapp3.1\Cinema_app.deps.json
+C:\Users\njim1\Desktop\Cinema_app\bin\Debug\netcoreapp3.1\Cinema_app.runtimeconfig.json
+C:\Users\njim1\Desktop\Cinema_app\bin\Debug\netcoreapp3.1\Cinema_app.runtimeconfig.dev.json
+C:\Users\njim1\Desktop\Cinema_app\bin\Debug\netcoreapp3.1\Cinema_app.dll
+C:\Users\njim1\Desktop\Cinema_app\bin\Debug\netcoreapp3.1\Cinema_app.pdb
+C:\Users\njim1\Desktop\Cinema_app\obj\Debug\netcoreapp3.1\Cinema_app.dll
+C:\Users\njim1\Desktop\Cinema_app\obj\Debug\netcoreapp3.1\Cinema_app.pdb
+C:\Users\njim1\Desktop\Cinema_app\obj\Debug\netcoreapp3.1\Cinema_app.genruntimeconfig.cache
+C:\Users\njim1\Desktop\Cinema_app - Copy\bin\Debug\netcoreapp3.1\Cinema_app.exe
+C:\Users\njim1\Desktop\Cinema_app - Copy\bin\Debug\netcoreapp3.1\Cinema_app.deps.json
+C:\Users\njim1\Desktop\Cinema_app - Copy\bin\Debug\netcoreapp3.1\Cinema_app.runtimeconfig.json
+C:\Users\njim1\Desktop\Cinema_app - Copy\bin\Debug\netcoreapp3.1\Cinema_app.runtimeconfig.dev.json
+C:\Users\njim1\Desktop\Cinema_app - Copy\bin\Debug\netcoreapp3.1\Cinema_app.dll
+C:\Users\njim1\Desktop\Cinema_app - Copy\bin\Debug\netcoreapp3.1\Cinema_app.pdb
+C:\Users\njim1\Desktop\Cinema_app - Copy\obj\Debug\netcoreapp3.1\Cinema_app.csprojAssemblyReference.cache
+C:\Users\njim1\Desktop\Cinema_app - Copy\obj\Debug\netcoreapp3.1\Cinema_app.AssemblyInfoInputs.cache
+C:\Users\njim1\Desktop\Cinema_app - Copy\obj\Debug\netcoreapp3.1\Cinema_app.AssemblyInfo.cs
+C:\Users\njim1\Desktop\Cinema_app - Copy\obj\Debug\netcoreapp3.1\Cinema_app.csproj.CoreCompileInputs.cache
+C:\Users\njim1\Desktop\Cinema_app - Copy\obj\Debug\netcoreapp3.1\Cinema_app.dll
+C:\Users\njim1\Desktop\Cinema_app - Copy\obj\Debug\netcoreapp3.1\Cinema_app.pdb
+C:\Users\njim1\Desktop\Cinema_app - Copy\obj\Debug\netcoreapp3.1\Cinema_app.genruntimeconfig.cache
